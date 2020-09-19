@@ -1,3 +1,4 @@
+
 import turtle as t
 
 t.speed(1000)
@@ -12,5 +13,3 @@ def doublecircle():
 for n in range (3):
     doublecircle()
     t.right(60)
-
-
